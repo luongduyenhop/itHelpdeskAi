@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+*.war
+.env
+.idea/
+*.iml
+.vscode/
+*.log
+.mvn/wrapper/maven-wrapper.jar
+.docker-java.properties
